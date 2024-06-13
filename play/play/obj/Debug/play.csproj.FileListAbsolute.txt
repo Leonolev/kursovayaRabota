@@ -1,0 +1,10 @@
+C:\visual.Studio_projects\play\play\bin\Debug\play.exe.config
+C:\visual.Studio_projects\play\play\bin\Debug\play.exe
+C:\visual.Studio_projects\play\play\bin\Debug\play.pdb
+C:\visual.Studio_projects\play\play\obj\Debug\play.csproj.AssemblyReference.cache
+C:\visual.Studio_projects\play\play\obj\Debug\play.Form1.resources
+C:\visual.Studio_projects\play\play\obj\Debug\play.Properties.Resources.resources
+C:\visual.Studio_projects\play\play\obj\Debug\play.csproj.GenerateResource.cache
+C:\visual.Studio_projects\play\play\obj\Debug\play.csproj.CoreCompileInputs.cache
+C:\visual.Studio_projects\play\play\obj\Debug\play.exe
+C:\visual.Studio_projects\play\play\obj\Debug\play.pdb
